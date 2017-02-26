@@ -6,7 +6,6 @@
 class Game implements Runnable {
 
     private Integer totalScore;
-    //public void basicConfig(){}
 
     public void simulateExampleDemo() {
 
